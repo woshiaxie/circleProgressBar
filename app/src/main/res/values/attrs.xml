@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="circleProgressView">
+    <!--中心文字-->
+    <attr name="centerText" format="reference|string" />
+    <attr name="centerTextSize" format="dimension" />
+    <attr name="centerTextColor" format="reference|color" />
+
+    <!--中心圆-->
+    <attr name="centerCircleColor" format="reference|color|integer" />
+    <attr name="centerCircleRadius" format="dimension" />
+    <attr name="centerCircleX" format="float" />
+    <attr name="centerCircleY" format="float" />
+
+    <!--外部弧线框-->
+    <attr name="arcStartAngle" format="float" />
+    <attr name="arcSweepAngle" format="float" />
+    <attr name="arcSweepAnglePercent" format="integer" />
+    <attr name="arcColor" format="reference|color|integer" />
+
+  </declare-styleable>
+
+</resources>
