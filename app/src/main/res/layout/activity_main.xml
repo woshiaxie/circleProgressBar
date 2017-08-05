@@ -21,6 +21,6 @@
     circle_progress_view:centerCircleColor= "#ff4466"
     circle_progress_view:arcColor = "0x90EE90"
     circle_progress_view:arcStartAngle = "0"
-    circle_progress_view:arcSweepAngle = "90"
+    circle_progress_view:arcSweepAngle = "180"
     />
 </RelativeLayout>

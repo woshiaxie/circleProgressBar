@@ -45,11 +45,11 @@ public class CircleProgressView extends View {
   //外弧线颜色
   private int mArcColor = 0xcccccc;
 
-  //中心园的文字画笔
+  //中心圆的文字画笔
   private Paint mTextPaint;
-  //中心园的文字内容
+  //中心圆的文字内容
   private String mCenterText;
-  //中心园的文字大小
+  //中心圆的文字大小
   private float mCenterTextSize;
 
 
