@@ -18,6 +18,7 @@
     <attr name="arcSweepAngle" format="float" />
     <attr name="arcSweepAnglePercent" format="integer" />
     <attr name="arcColor" format="reference|color|integer" />
+    <attr name="arcWidth" format="dimension" />
 
   </declare-styleable>
 
